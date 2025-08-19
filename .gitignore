@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# PyCharm / JetBrains
+.idea/
+
+# Project-specific
+results/*
+!results/.gitkeep
+
+readme-images/*
+!readme-images/drawdown.png
+!readme-images/equity.png
+!readme-images/rolling_sharpe.png
