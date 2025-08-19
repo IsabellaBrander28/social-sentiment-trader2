@@ -39,6 +39,7 @@ This project is designed to showcase practical skills in **quantitative finance*
 ---
 
 ## 📂 Project Structure
+```
 social-sentiment-trader2/
 │
 ├── data_loader.py # Load price data from Yahoo Finance
@@ -58,7 +59,7 @@ social-sentiment-trader2/
 │
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation (this file)
-
+```
 ---
 
 ## ⚡ Quick Start
