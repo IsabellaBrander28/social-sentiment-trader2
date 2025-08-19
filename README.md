@@ -2,7 +2,7 @@
 
 A Python-based **quant trading backtester** that integrates **financial news sentiment** with **price data** to generate trading signals and evaluate performance.  
 
-This project is designed to showcase practical skills in **quantitative finance**, **data analysis**, and **algorithmic trading strategy design** — making it a strong portfolio piece for internship applications.
+This project is designed to showcase practical skills in **quantitative finance**, **data analysis**, and **algorithmic trading strategy design**.
 
 ---
 
