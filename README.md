@@ -101,11 +101,10 @@ After running main.py, you’ll get:
 
 - Plots:
 
-  - Equity curve (equity.png)
+  - ![Equity Curve](readme-images/equity.png)
+  - ![Drawdown](readme-images/drawdown.png)
+  - ![Rolling Sharpe](readme-images/rolling_sharpe.png)
 
-  - Drawdown (drawdown.png)
-
-  - Rolling Sharpe ratio (rolling_sharpe.png)
 
 ## 🔧 Use Cases
 - Academic / internship projects in quant finance
